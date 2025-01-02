@@ -1,0 +1,2 @@
+This is classification test case solved with help of decision tree classifier along with hyperparamter tuning with help of Grid Search cv and Stratified KFold cross validation technique
+The metric of decision tree classifier is also compared with Logistic regression (with hyperparamter tuning)
